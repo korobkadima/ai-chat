@@ -20,7 +20,6 @@ return [
     'callables' => [
         'should_cache' => true,
         'cache_key'    => 'ai-chat-callable-functions',
-
         'functions' => [
             \App\Callables\CurrentYear::class,
             \App\Callables\WeatherCondition::class,
