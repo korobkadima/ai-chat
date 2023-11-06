@@ -1,0 +1,10 @@
+{
+    "Ai": true,
+    "AiChat": true,
+    "AiChatBotman": true,
+    "AiVectorizer": true,
+    "AiCompletions": true,
+    "BotmanWhatsappDriver": true,
+    "BotmanWebsocketClient": true,
+    "BotmanWebsocketDriver": true
+}

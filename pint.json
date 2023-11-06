@@ -1,0 +1,8 @@
+{
+    "rules": {
+        "binary_operator_spaces": {
+            "default": "align_single_space_minimal"
+        },
+        "logical_operators": true
+    }
+}
